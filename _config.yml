@@ -2,3 +2,5 @@ exclude:
   - README.md
 menu:
   Classes: classes
+  Calendar: calendar
+  Resources: resources
