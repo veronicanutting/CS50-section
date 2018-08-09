@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<!-- adapted from https://github.com/poole/hyde -->
+
+<html lang="en-us">
+
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+        <meta property="og:description" content="This course introduces students to the principles and practice of web programming. The session begins with a brief introduction to HTML and CSS and quickly transitions to server-side programming with Python and client-side scripting with JavaScript. Topics include Ajax, DOM, event handling, HTTP, MVC, relational databases, and user experience. Projects include web apps with front-end user interfaces (mobile and desktop) and back-end application programming interfaces."/>
+        <meta property="og:image" content="http://www.harvard.edu/sites/default/files/default_images/harvard-social1200.jpg"/>
+        <meta property="og:title" content="Introduction to Web Programming"/>
+        <meta property="og:url" content="https://cs50.github.io/summer"/>
+
+        <link href="{{ site.baseurl }}/favicon.ico" rel="icon"/>
+        <link href="{{ site.baseurl }}/css/poole.css" rel="stylesheet"/>
+        <link href="{{ site.baseurl }}/css/syntax.css" rel="stylesheet"/>
+        <link href="{{ site.baseurl }}/css/hyde.css" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface" rel="stylesheet"/>
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
+        <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet"/>
+
+        <title>
+            {% if page.title != 'Home' %}
+                {{ page.title }} &middot; CSCI P-14300
+            {% else %}
+                CSCI P-14300
+            {% endif %}
+        </title>
+
+    </head>
+
+    <body class="theme-base-08">
+
+        <div class="sidebar">
+            <div class="container">
+                <div class="sidebar-about">
+                    <h1>
+                        <a href="{{ site.baseurl }}">CS50 AP</a>
+                    </h1>
+                    <p class="lead">Introduction to Web Programming</p>
+                    <p>
+                        <a href="http://www.summer.harvard.edu/" style="color: inherit;">Harvard Summer School</a>
+                        <br/>
+                        2018
+                    </p>
+                </div>
+
+                <nav class="sidebar-nav">
+
+                    {% for item in site.menu %}
+                        {% assign url = page.url | remove: '.html' %}
+                        <a class="sidebar-nav-item{% if url == item[1] %} active{% endif %}" href="{{ site.baseurl }}/{{ item[1] }}">{{ item[0] }}</a>
+                    {% endfor %}
+
+                </nav>
+
+            </div>
+        </div>
+
+        <div class="content container">
+            <div class="page">
+                {{ content }}
+            </div>
+        </div>
+
+    </body>
+
+</html>
