@@ -15,20 +15,18 @@
         <meta property="og:title" content="Veronica's Section"/>
         <meta property="og:url" content="https://cs50.github.io/summer"/>
 
-        <link href="{{ site.baseurl }}/favicon.ico" rel="icon"/>
-        <link href="{{ site.baseurl }}/css/poole.css" rel="stylesheet"/>
-        <link href="{{ site.baseurl }}/css/syntax.css" rel="stylesheet"/>
-        <link href="{{ site.baseurl }}/css/hyde.css" rel="stylesheet"/>
+        <link href="/favicon.ico" rel="icon"/>
+        <link href="/css/poole.css" rel="stylesheet"/>
+        <link href="/css/syntax.css" rel="stylesheet"/>
+        <link href="/css/hyde.css" rel="stylesheet"/>
         <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface" rel="stylesheet"/>
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet"/>
-        <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet"/>
+        <link href="/css/styles.css" rel="stylesheet"/>
 
         <title>
-            {% if page.title != 'Home' %}
-                {{ page.title }} &middot; CSCI P-14300
-            {% else %}
-                CSCI P-14300
-            {% endif %}
+            
+                 &middot; CSCI P-14300
+            
         </title>
 
     </head>
@@ -39,7 +37,7 @@
             <div class="container">
                 <div class="sidebar-about">
                     <h1>
-                        <a href="{{ site.baseurl }}">CS50 AP</a>
+                        <a href="">CS50 AP</a>
                     </h1>
                     <p class="lead">Introduction to Web Programming</p>
                     <p>
@@ -51,10 +49,16 @@
 
                 <nav class="sidebar-nav">
 
-                    {% for item in site.menu %}
-                        {% assign url = page.url | remove: '.html' %}
-                        <a class="sidebar-nav-item{% if url == item[1] %} active{% endif %}" href="{{ site.baseurl }}/{{ item[1] }}">{{ item[0] }}</a>
-                    {% endfor %}
+                    
+                        
+                        <a class="sidebar-nav-item" href="/classes">Classes</a>
+                    
+                        
+                        <a class="sidebar-nav-item" href="/calendar">Calendar</a>
+                    
+                        
+                        <a class="sidebar-nav-item" href="/resources">Resources</a>
+                    
 
                 </nav>
 
@@ -63,7 +67,50 @@
 
         <div class="content container">
             <div class="page">
-                {{ content }}
+                <h1 id="sections">Sections</h1>
+
+<h2 id="class-1">Class 1</h2>
+
+<h3 id="operators-">operators, …</h3>
+
+<ul>
+  <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/http/http.pdf">Slides</a></li>
+  <li>Source Code
+    <ul>
+      <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/http/src/">index</a></li>
+      <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/http/src.zip">ZIP</a></li>
+    </ul>
+  </li>
+  <li>Labs</li>
+</ul>
+
+<p>More Resources</p>
+<ul>
+  <li>W3School’s tutorial on</li>
+  <li>NYTimes article on</li>
+</ul>
+
+<hr />
+
+<h2 id="class-2">Class 2</h2>
+
+<h3 id="loops-conditionals">loops, conditionals</h3>
+
+<ul>
+  <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/python/python.pdf">Slides</a></li>
+  <li>Source Code
+    <ul>
+      <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/python/src/">index</a></li>
+      <li><a href="http://cdn.cs50.net/cscip14300/2018/lectures/python/src.zip">ZIP</a></li>
+    </ul>
+  </li>
+  <li>Labs</li>
+</ul>
+
+<hr />
+
+<h2 id="class-3">Class 3</h2>
+
             </div>
         </div>
 

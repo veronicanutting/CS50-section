@@ -1,0 +1,20 @@
+.sidebar {
+    overflow: auto;
+}
+
+.sidebar-about {
+    line-height: 1.25;
+}
+
+.sidebar-about h1 {
+    font-family: inherit;
+    font-size: 1.75rem;
+}
+
+dl, ol, ul {
+    margin-bottom: 0;
+}
+
+th {
+    text-align: left;
+}
