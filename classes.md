@@ -4,7 +4,8 @@ layout: default
 
 # Sections
 
-## Class 1
+## Section 1
+Monday, September 17
 
 ### operators, ...
 
