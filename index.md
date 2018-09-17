@@ -2,13 +2,11 @@
 layout: default
 ---
 
-## Welcome!
+## Welcome
 
-Welcome to my section!
+Hey there! Welcome to my section website. If you're looking for the CS50  course page, click [here](https://cs50.harvard.edu/2018/fall/).
 
-## Contact me
+## Contact Info
 
-Here's my email!
-
-Veronica Nutting\\
+Email me at\\
 <veronica@cs50.harvard.edu>
