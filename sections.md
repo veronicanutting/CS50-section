@@ -5,7 +5,7 @@ layout: default
 # Sections
 
 ## Section 1
-Monday, September 17!!
+Monday, September 17
 
 * [Slides](https://docs.google.com/presentation/d/1ySMY0u8XyB4ZAUnUw7kGKg6jQsevqW-C_MDhAJEBC9c/edit?usp=sharing)
 
