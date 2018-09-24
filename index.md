@@ -9,4 +9,5 @@ Hey there! Welcome to my section website. If you're looking for the CS50  course
 ## Contact Info
 
 Email me at <veronica@cs50.harvard.edu>
+
 Text me at [+1 (304) 905-4322](tel:+375255318270)
