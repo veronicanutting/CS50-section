@@ -2,4 +2,5 @@ exclude:
   - README.md
 menu:
   Home: index
+  General: general
   Section Materials: materials
