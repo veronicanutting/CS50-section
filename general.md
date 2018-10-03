@@ -10,7 +10,7 @@ Check out this guide: [How to Solve a CS50 Pset](https://drive.google.com/file/d
 * error messages
 * using print statements
 * commenting out parts of your program
-* check out Doug's [Short]](https://www.youtube.com/watch?v=VtkMZjvvKaU&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=16)
+* check out Doug's [Short](https://www.youtube.com/watch?v=VtkMZjvvKaU&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=16)
 
 ## What is good design?
 
