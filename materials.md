@@ -6,6 +6,20 @@ layout: default
 
 ---
 
+## Section 3: Monday, October 1
+* [Slides](https://docs.google.com/presentation/d/1Ca1NdbLSlZr5l9woeBxSaCxANLOgewMSq7V52XebVCk/edit?usp=sharing)
+* [Sandbox Code](http://bit.ly/2NhtUN3)
+* File I/O
+    * [Short](https://www.youtube.com/watch?v=bOF-SpEAYgk&t=863s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=21)
+* Memory and Pointers
+    * [Short](https://www.youtube.com/watch?v=XISnO2YhnsY&t=347s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=40)
+* Dynamic Memory Allocation
+    * [Short](https://www.youtube.com/watch?v=xa4ugmMDhiE&t=422s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=20)
+* Hexadecimal
+    * [Short](https://www.youtube.com/watch?v=u_atXp-NF6w&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=26)
+
+---
+
 ## Section 2: Monday, September 24
 * [Slides](https://docs.google.com/presentation/d/1GbsJT52j_9AMKoV9pHn4kXkAB1A_aBLheaAPVGgavuQ/edit?usp=sharing)
 * Another TF's [Slides](https://docs.google.com/presentation/d/1pnrKwaQn7fLF6-LI7DS6M8RGgmbaZpXRJyBhu6GWy80/edit?usp=sharing) - Emily Hong
