@@ -15,7 +15,7 @@ layout: default
 
 ---
 
-## CS50's Tools
+## CS50 Tools
 * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/3/notes/#tools)
 * help50
     * a command-line program that translates many compiler and runtime error messages

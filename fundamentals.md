@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Programming Fundamentals
+# CS Fundamentals
 
 ---
 
@@ -21,12 +21,12 @@ layout: default
         * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/0/notes/#binary)
         * [CS50 study](https://study.cs50.net/binary)
     * Decimal
-    * ASCII
-    * Hexadecimal
+    * [ASCII]((https://veronicanutting.github.io/section/section/#section-2-monday-september-24))
+    * [Hexadecimal](https://veronicanutting.github.io/section/section/#section-2-monday-october-1)
 * Compiling
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/2/notes/#compiling)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Compiling.pdf)
-* Memory
+* [Memory](https://veronicanutting.github.io/section/section/#section-2-monday-october-1)
 
 ---
 
@@ -37,7 +37,7 @@ layout: default
         * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/0/notes/#scratch)
 * Syntax
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Syntax.pdf) on C Syntax
-* Data Types
+* [Data Types](https://veronicanutting.github.io/section/section/#section-2-monday-september-17)
     * Typecasting
         * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Typecasting.pdf)
 * Libraries

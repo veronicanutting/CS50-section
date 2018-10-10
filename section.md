@@ -75,7 +75,6 @@ Adding more programming building blocks, concepts, and skills!
 * Modulo
     * Khan Academy on [What is modular arithmetic?](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic)
     * Quora discussion [How does the modulus operator work](https://www.quora.com/C-Programming-How-does-the-modulus-operator-work-when-we-divide-a-smaller-number-by-a-larger-number-For-example-3-5-or-5-10)
-
     * Sandbox: [checking whether or not an integer is even with modulo](https://sandbox.cs50.io/f297672c-bb9b-4312-8cc6-d93589b903a6)
 * Arrays
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/2/notes/#arrays)
