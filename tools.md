@@ -29,7 +29,7 @@ layout: default
     * tests the correctness (as per the problem specifications) of code
     * it also produces a suggestive automated correctness grade
         * so it's a good idea to run check50 before submitting your work!
-    * [underneath the hood](check50(https://github.com/cs50/check50)
+    * [underneath the hood](https://github.com/cs50/check50)
     * the checks themselves are open source; you can look through the ones for Fall 2018 [here](https://github.com/cs50/checks/tree/master/cs50/2018/fall)
         * it can be helpful to know how we are testing your program; it's also very important to run your own tests!
         * we usually check if your program exists (by looking in the folder you're in for a file with a specific name) and compiles before running a series of standard input/output checks (which are exactly what they sound like--we give your program some input and see if its output/behavior matches the staff solutions' output/behavior given the same input)
