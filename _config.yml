@@ -1,6 +1,9 @@
 exclude:
   - README.md
 menu:
-  Home: index
-  General: general
-  Section Materials: materials
+  Resources: resources
+  Tools and the IDE: tools
+  Programming 101: programming
+  CS Fundamentals: fundamentals
+  Topics from Section: section
+  More Topics: more
