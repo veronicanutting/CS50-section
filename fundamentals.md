@@ -22,7 +22,7 @@ layout: default
         * [CS50 study](https://study.cs50.net/binary)
     * Decimal
     * [ASCII](https://veronicanutting.github.io/section/section#section-2-monday-september-24)
-    * [Hexadecimal](https://veronicanutting.github.io/section/section#section-2-monday-october-1)
+    * [Hexadecimal](https://veronicanutting.github.io/section/section#section-3-monday-october-1)
 * Compiling
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/2/notes/#compiling)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Compiling.pdf)
