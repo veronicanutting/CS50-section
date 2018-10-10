@@ -26,7 +26,7 @@ layout: default
 * Compiling
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/2/notes/#compiling)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Compiling.pdf)
-* [Memory](https://veronicanutting.github.io/section/section/#section-3-monday-october-1)
+* [Memory](https://veronicanutting.github.io/section/section#section-3-monday-october-1)
 
 ---
 
@@ -37,7 +37,7 @@ layout: default
         * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/0/notes/#scratch)
 * Syntax
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Syntax.pdf) on C Syntax
-* [Data Types](https://veronicanutting.github.io/section/section/#section-1-monday-september-17)
+* [Data Types](https://veronicanutting.github.io/section/section#section-1-monday-september-17)
     * Typecasting
         * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Typecasting.pdf)
 * Libraries
