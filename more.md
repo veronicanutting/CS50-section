@@ -6,6 +6,18 @@ layout: default
 
 ---
 
+## The Internet
+* [short](https://www.youtube.com/watch?v=04GztBlVo_s)
+* [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AADzBEio5_FKC-zALtVFu9Ypa/Internet%20Basics.pdf?dl=0)
+* Routers
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AABggPxFuk1JF7qVowbyLCNza/Routers.pdf?dl=0)
+* DNS and DHCP
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAA0f6URyyfOG2tX_iwNWrKva/DNS%20and%20DHCP.pdf?dl=0)
+* [TCP/IP](https://veronicanutting.github.io/section/section/#section-5-monday-october-15)
+* [HTTP](https://veronicanutting.github.io/section/section/#section-5-monday-october-15) 
+
+---
+
 ## Computational Complexity
 * [short](https://www.youtube.com/watch?v=YoZPTyGL2IQ&index=11&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)
 * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Computational+Complexity.pdf)

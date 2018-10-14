@@ -49,5 +49,21 @@ layout: default
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Algorithms.pdf)
     * [short](https://www.youtube.com/watch?v=ktWL3nN38ZA&index=4&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/0/notes/#algorithms)
+
+---
+
+## Miscellaneous
+* Artificial Intelligence and Machine Learning
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AABzhswuFey8m5VXcPBbBxoba/Artificial%20Intelligence%20and%20Machine%20Learning.pdf?dl=0)
+* Cybersecurity
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AADPPt_LTICFd1Ys9SySqgZha/Cybersecurity.pdf?dl=0)
+    * Trust Models
+        * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAC3NrGPDjFOR74qlX4JpQZla/Trust%20Models.pdf?dl=0)
 * Encryption
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/2/notes/#encryption)
+* Version Control and Collaboration
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACFRHSerM-U1_VE2PUCo6Ena/Version%20Control%20and%20Collaboration.pdf?dl=0)
+* Virtual and Augmented Reality
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAAc4h759op8xbkTEsxvqZNOa/Virtual%20and%20Augmented%20Reality.pdf?dl=0)
+* Unsolvable Problems
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AABW1a9zrNEOrWJIZHFyOXnka/Unsolvable%20Problems.pdf?dl=0)
