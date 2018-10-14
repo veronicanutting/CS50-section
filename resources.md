@@ -15,13 +15,13 @@ layout: default
 
 ## For Concepts
 * [CS50 Shorts](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW): YouTube playlist with all of CS50's shorts (videos of ~5-15 minutes in length going more in depth into one topic)
-* CS50 study
+* [CS50 study](http://study.cs50.net): has a bunch of slides on various CS topics
 
 ---
 
 ## For [Coding](https://veronicanutting.github.io/section/programming)
-* [CS50 Reference](https://reference.cs50.net): **great** resource for learning how to use specific functions
-* [Help50 Online](https://help.cs50.net): remember, you can run a command like `help50 make hello` in your Terminal for help with error messages, and you can also copy and paste the errors into our website version of help50!
+* [CS50 Reference](https://reference.cs50.net): great resource for learning how to use specific functions
+* [Help50 Online](https://help.cs50.net): copy and paste compiler and runtime errors into this website for easier to understand explanations of what's going on
 * [Google](https://veronicanutting.github.io/section/programming/#getting-help-and-helping-yourself)
 * Your peers!
 * [CS50 Style Guide](https://cs50.readthedocs.io/style/c/)

@@ -7,7 +7,7 @@ layout: default
 ---
 
 ## Programming vs. Coding?
-* "Coding, as the word suggests, is involved in writing code. A coder translates the requirements into the programming language of his choice and writes lines of codes. Programming, on the other hand, is a much broader term that involves coding AND other tasks like problem solving, critical thinking, conceptualizing, and understanding algorithms and data structures."
+* "Coding, as the word suggests, is involved in writing code. A coder translates the requirements into the programming language of their choice and writes lines of codes. Programming, on the other hand, is a much broader term that involves coding AND other tasks like problem solving, critical thinking, conceptualizing, and understanding algorithms and data structures."
     * Nicholas Hargreaves in [this](https://www.quora.com/What-is-the-difference-between-programming-and-coding-4) Quora discussion)
 
 ---
