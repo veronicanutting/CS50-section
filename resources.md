@@ -22,7 +22,7 @@ layout: default
 ## For [Coding](https://veronicanutting.github.io/section/programming)
 * [CS50 Reference](https://reference.cs50.net): great resource for learning how to use specific functions
 * [Help50 Online](https://help.cs50.net): copy and paste compiler and runtime errors into this website for easier to understand explanations of what's going on
-* [Google](https://veronicanutting.github.io/section/programming/#getting-help-and-helping-yourself)
+* [Google](https://veronicanutting.github.io/section/programming#getting-help-and-helping-yourself)
 * Your peers!
 * [CS50 Style Guide](https://cs50.readthedocs.io/style/c/)
 

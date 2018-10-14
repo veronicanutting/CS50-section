@@ -13,8 +13,8 @@ layout: default
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AABggPxFuk1JF7qVowbyLCNza/Routers.pdf?dl=0)
 * DNS and DHCP
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAA0f6URyyfOG2tX_iwNWrKva/DNS%20and%20DHCP.pdf?dl=0)
-* [TCP/IP](https://veronicanutting.github.io/section/section/#section-5-monday-october-15)
-* [HTTP](https://veronicanutting.github.io/section/section/#section-5-monday-october-15) 
+* [TCP/IP](https://veronicanutting.github.io/section/section#section-5-monday-october-15)
+* [HTTP](https://veronicanutting.github.io/section/section#section-5-monday-october-15)
 
 ---
 
