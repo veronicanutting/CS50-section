@@ -8,6 +8,7 @@ layout: default
 
 ## Section 5: Monday, October 15
 * [Slides](https://docs.google.com/presentation/d/10C6JuFb3v0zvv4mK3Pr_FubZi4h9vkZ7rzJrPBIXuFY/edit?usp=sharing)
+* another TF's [slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit?usp=sharing) - Emily Hong
 * TCP/IP
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#networking) on networking
     * [short](https://www.youtube.com/watch?v=A1g9SokDJSU) on IP
