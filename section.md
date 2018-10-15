@@ -35,6 +35,7 @@ layout: default
 
 ## Section 4: Monday, October 8
 Applying a lot of what we've learned to data management!
+* Emily Hong's [slides](https://docs.google.com/presentation/d/12Tb2HC7agaKYZFO0pVlDiIkpFE-d6VFnZrAJOTVcoEc/edit?usp=sharing)
 * Data Structures
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/4/notes/#more-data-structures) on hash tables, trees, and tries
     * [short](https://www.youtube.com/watch?v=3uGchQbk7g8&index=14&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)
@@ -57,6 +58,7 @@ Applying a lot of what we've learned to data management!
 ## Section 3: Monday, October 1
 Applying a lot of what we've learned to file management!
 * [Slides](https://docs.google.com/presentation/d/1Ca1NdbLSlZr5l9woeBxSaCxANLOgewMSq7V52XebVCk/edit?usp=sharing)
+* Another TF's [slides](https://docs.google.com/presentation/d/1IJouel2KDxtdrkW_Q5iQjWL6EdkwXNzOF2_tm0rXV7U/edit#slide=id.p) - Emily Hong
 * Sandbox [code](http://bit.ly/2NhtUN3) for in class demo
 * File I/O
     * [short](https://www.youtube.com/watch?v=bOF-SpEAYgk&index=21&t=863s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW) on File Pointers
