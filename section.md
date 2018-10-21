@@ -7,6 +7,7 @@ layout: default
 ---
 
 ## Section 6: Monday, October 22
+And now onto Python!
 * [Slides](https://docs.google.com/presentation/d/1D3l7zmCJjS7t5LOrwbsrXk2gNLc3gBX0vAE_ZjX0VUg/edit?usp=sharing)
 * lecture notes - will be up soon
 * [short](https://www.youtube.com/watch?v=mgBpcQRDtl0&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=41)
@@ -34,6 +35,7 @@ layout: default
 ---
 
 ## Section 5: Monday, October 15
+Intro to the Internet and web development!
 * [Slides](https://docs.google.com/presentation/d/10C6JuFb3v0zvv4mK3Pr_FubZi4h9vkZ7rzJrPBIXuFY/edit?usp=sharing)
 * another TF's [slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit?usp=sharing) - Emily Hong
 * TCP/IP
