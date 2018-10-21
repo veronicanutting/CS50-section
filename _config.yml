@@ -1,6 +1,6 @@
 exclude:
   - README.md
-baseurl: ""
+baseurl: "/section"
 menu:
   Resources: resources
   Tools and the IDE: tools
