@@ -6,6 +6,33 @@ layout: default
 
 ---
 
+## Section 6: Monday, October 22
+* [Slides](https://docs.google.com/presentation/d/1D3l7zmCJjS7t5LOrwbsrXk2gNLc3gBX0vAE_ZjX0VUg/edit?usp=sharing)
+* lecture notes - will be up soon
+* [short](https://www.youtube.com/watch?v=mgBpcQRDtl0&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=41)
+* [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Python.pdf)
+* from Python Documentation
+    * [Informal Introduction](https://docs.python.org/3/tutorial/introduction.html)
+    * [if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+    * [for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+    * [Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+    * [More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+    * [Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+    * [Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
+    * [Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+    * [Programming FAQ](https://docs.python.org/3/faq/programming.html)
+* from Real Python
+    * [First Steps](https://realpython.com/python-first-steps/)
+    * [Basic Data Types](https://realpython.com/python-data-types/)
+    * [Variables](https://realpython.com/python-variables/)
+    * [Operators and Expressions](https://realpython.com/python-operators-expressions/)
+    * [Conditional Statements](https://realpython.com/python-conditional-statements/)
+    * [Lists and Tuples](https://realpython.com/python-lists-tuples/)
+    * [Dictionaries](https://realpython.com/python-dicts/)
+
+
+---
+
 ## Section 5: Monday, October 15
 * [Slides](https://docs.google.com/presentation/d/10C6JuFb3v0zvv4mK3Pr_FubZi4h9vkZ7rzJrPBIXuFY/edit?usp=sharing)
 * another TF's [slides](https://docs.google.com/presentation/d/1YP_AqbUC6BiZWuhwc42TgGrgFXBoQNLJjA6gzYaA8lY/edit?usp=sharing) - Emily Hong
@@ -18,6 +45,7 @@ layout: default
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#http)
     * [short](https://www.youtube.com/watch?v=4axL8Gfw2nI)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AADhzytWLAZus8RisR_Gqgtba/HTTP.pdf?dl=0)
+    * [CS50 study](https://study.cs50.net/http)
 * HTML
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#html)
     * [short](https://www.youtube.com/watch?v=YK78KhMf7bs)
@@ -30,6 +58,7 @@ layout: default
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/5/notes/#javascript)
     * [short](https://www.youtube.com/watch?v=Z93IaNfavZw)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AAB6bGVtKDSfXRnnAA02Wc5oa/JavaScript.pdf?dl=0)
+    * [CS50 study](https://study.cs50.net/javascript)
 
 ---
 
