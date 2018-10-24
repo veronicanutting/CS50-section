@@ -9,7 +9,8 @@ layout: default
 ## Section 6: Monday, October 22
 And now onto Python!
 * [Slides](https://docs.google.com/presentation/d/1D3l7zmCJjS7t5LOrwbsrXk2gNLc3gBX0vAE_ZjX0VUg/edit?usp=sharing)
-* lecture notes - will be up soon
+* [code](goo.gl/hVVci5) we tinkered with in section
+* [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/6/notes/#python)
 * [short](https://www.youtube.com/watch?v=mgBpcQRDtl0&t=0s&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=41)
 * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Python.pdf)
 * from Python Documentation
