@@ -20,6 +20,7 @@ Fun with Python and basic web apps!
     * [Documentation](http://jinja.pocoo.org)!
         * [synopsis](http://jinja.pocoo.org/docs/2.10/templates/#synopsis)
         * [variables](http://jinja.pocoo.org/docs/2.10/templates/#variables)
+    * [Basics of Jinja](https://overiq.com/flask/0.12/basics-of-jinja-template-language/)
 * Ajax
     * [short](https://www.youtube.com/watch?v=dQcBs4S-wEQ&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&t=0s&index=3)
     * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Ajax.pdf)
