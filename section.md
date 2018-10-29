@@ -4,6 +4,8 @@ layout: default
 
 # Topics from Section
 
+---
+
 ## Section 7: Monday, October 29
 Fun with Python and basic web apps!
 * [Slides](https://docs.google.com/presentation/d/1akxDT0B0trxzwkmmZGImyw42eqjX32kT9Tf3hsn6KjU/edit?usp=sharing)
