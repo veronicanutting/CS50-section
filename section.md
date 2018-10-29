@@ -4,6 +4,25 @@ layout: default
 
 # Topics from Section
 
+## Section 7: Monday, October 29
+Fun with Python and basic web apps!
+* [Slides](https://docs.google.com/presentation/d/1akxDT0B0trxzwkmmZGImyw42eqjX32kT9Tf3hsn6KjU/edit?usp=sharing)
+* another TF's [slides](https://docs.google.com/presentation/u/1/d/1fmtu_qYJzvIvT4phvcn9fAH4KlhE0F6QqkInhqBJdFo/edit) - Emily Hong
+* code examples from section
+* [Python](https://veronicanutting.github.io/section/section#section-6-monday-october-22)
+* Flask
+    * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/7/notes/#flask)
+    * [short](https://www.youtube.com/watch?v=X0dwkDh8kwA&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&t=8s&index=22)
+* Jinja
+    * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/7/notes/#flask) (last part)
+    * [Documentation](http://jinja.pocoo.org)!
+        * [synopsis](http://jinja.pocoo.org/docs/2.10/templates/#synopsis)
+        * [variables](http://jinja.pocoo.org/docs/2.10/templates/#variables)
+* Ajax
+    * [short](https://www.youtube.com/watch?v=dQcBs4S-wEQ&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&t=0s&index=3)
+    * [reference sheet](https://www.dropbox.com/sh/5y662ey1hc4sde4/AACjgHN3NtSKk4ShsRDFd_Sja?dl=0&preview=Ajax.pdf)
+    * W3Schools' [Ajax Introduction](https://www.w3schools.com/xml/ajax_intro.asp)
+
 ---
 
 ## Section 6: Monday, October 22
