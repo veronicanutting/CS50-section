@@ -10,7 +10,7 @@ layout: default
 Fun with Python and basic web apps!
 * [Slides](https://docs.google.com/presentation/d/1akxDT0B0trxzwkmmZGImyw42eqjX32kT9Tf3hsn6KjU/edit?usp=sharing)
 * another TF's [slides](https://docs.google.com/presentation/u/1/d/1fmtu_qYJzvIvT4phvcn9fAH4KlhE0F6QqkInhqBJdFo/edit) - Emily Hong
-* code examples from section
+* [code](https://tinyurl.com/y88lte29) examples from section
 * [Python](https://veronicanutting.github.io/section/section#section-6-monday-october-22)
 * Flask
     * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/7/notes/#flask)

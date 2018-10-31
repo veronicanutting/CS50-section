@@ -15,7 +15,7 @@ layout: default
 
 ## For Concepts
 * [CS50 Shorts](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW): YouTube playlist with all of CS50's shorts (videos of ~5-15 minutes in length going more in depth into one topic)
-* [CS50 study](http://study.cs50.net): has a bunch of slides on various CS topics
+* [CS50 Study](http://study.cs50.net): has a bunch of slides on various CS topics
 
 ---
 
