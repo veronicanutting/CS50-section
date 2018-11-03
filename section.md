@@ -8,7 +8,7 @@ layout: default
 
 ## Section 8: Monday, November 5
 Last section :(
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1z2nzCYBw29Dsq7q9quC5HMDI-ognOrLnQ42TahJsujE/edit?usp=sharing)
 * still relevant: [Flask](https://veronicanutting.github.io/section/section#section-7-monday-october-29),  [Jinja](https://veronicanutting.github.io/section/section#section-7-monday-october-29), and  [Ajax](https://veronicanutting.github.io/section/section#section-7-monday-october-29)
 * Model-View-Controller (MVC)
     * [short](https://www.youtube.com/watch?v=Fr4P6FkZUTE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=38&t=0s)
@@ -24,9 +24,10 @@ Last section :(
         * [ORDER BY](https://www.w3schools.com/sql/sql_orderby.asp) and [GROUP BY](https://www.w3schools.com/sql/sql_groupby.asp) keywords
     * phpLiteAdmin
         * [demo](https://www.phpliteadmin.org/demo/)
-* [Life After CS50](https://veronicanutting.github.io/section/after)
-    * academic trajectories
-* [Quiz](https://veronicanutting.github.io/section/quiz) and [Final Project](https://veronicanutting.github.io/section/project)
+* [Quiz](https://veronicanutting.github.io/section/quiz) review
+* About the [final project](https://veronicanutting.github.io/section/project)
+* [Life after CS50](https://veronicanutting.github.io/section/after)
+    * [academic trajectories](https://veronicanutting.github.io/section/after#academic-trajectories)
 
 ---
 
