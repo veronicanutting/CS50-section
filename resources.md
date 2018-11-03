@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Resources
+# Resource Guide
 
 ---
 

@@ -1,9 +1,12 @@
 exclude:
   - README.md
 menu:
-  Resources: resources
-  Tools and the IDE: tools
-  Programming 101: programming
-  CS Fundamentals: fundamentals
   Topics from Section: section
+  Resource Guide: resources
+  CS Fundamentals: fundamentals
+  Programming 101: programming
+  Tools and the IDE: tools
   More Topics: more
+  For the Quiz: quiz
+  Final Project: project
+  Life After CS50: after

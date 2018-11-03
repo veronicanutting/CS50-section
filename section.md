@@ -6,6 +6,30 @@ layout: default
 
 ---
 
+## Section 8: Monday, November 5
+Last section :(
+* Slides
+* still relevant: [Flask](https://veronicanutting.github.io/section/section#section-7-monday-october-29),  [Jinja](https://veronicanutting.github.io/section/section#section-7-monday-october-29), and  [Ajax](https://veronicanutting.github.io/section/section#section-7-monday-october-29)
+* Model-View-Controller (MVC)
+    * [short](https://www.youtube.com/watch?v=Fr4P6FkZUTE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=38&t=0s)
+    * Codecademy on [MVC](https://www.codecademy.com/articles/mvc)
+    * MDN on [MVC architecture](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture)
+* SQL
+    * [short](https://www.youtube.com/watch?v=AywtnUjQ6X4&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=46&t=0s)
+    * from W3School's [SQL Tutorial](https://www.w3schools.com/sql/):
+        * [SELECT](https://www.w3schools.com/sql/sql_select.asp), [UDPATE](https://www.w3schools.com/sql/sql_update.asp), and [INSERT INTO](https://www.w3schools.com/sql/sql_insert.asp) statements
+        * [JOIN](https://www.w3schools.com/sql/sql_join.asp) clause
+        * [WHERE](https://www.w3schools.com/sql/sql_where.asp) and [HAVING](https://www.w3schools.com/sql/sql_having.asp) clauses
+        * [AND, OR, NOT](https://www.w3schools.com/sql/sql_and_or.asp) operators
+        * [ORDER BY](https://www.w3schools.com/sql/sql_orderby.asp) and [GROUP BY](https://www.w3schools.com/sql/sql_groupby.asp) keywords
+    * phpLiteAdmin
+        * [demo](https://www.phpliteadmin.org/demo/)
+* [Life After CS50](https://veronicanutting.github.io/section/after)
+    * academic trajectories
+* [Quiz](https://veronicanutting.github.io/section/quiz) and [Final Project](https://veronicanutting.github.io/section/project)
+
+---
+
 ## Section 7: Monday, October 29
 Fun with Python and basic web apps!
 * [Slides](https://docs.google.com/presentation/d/1akxDT0B0trxzwkmmZGImyw42eqjX32kT9Tf3hsn6KjU/edit?usp=sharing)
