@@ -56,6 +56,9 @@ Fun with Python and basic web apps!
 ---
 
 ## Section 6: Monday, October 22
+![similarities](/images/similarities.jpg){:class="img-responsive"}
+(from my notes on similarities)
+
 And now onto Python!
 * [Slides](https://docs.google.com/presentation/d/1D3l7zmCJjS7t5LOrwbsrXk2gNLc3gBX0vAE_ZjX0VUg/edit?usp=sharing)
 * [code](goo.gl/hVVci5) we tinkered with in section
@@ -80,7 +83,6 @@ And now onto Python!
     * [Conditional Statements](https://realpython.com/python-conditional-statements/)
     * [Lists and Tuples](https://realpython.com/python-lists-tuples/)
     * [Dictionaries](https://realpython.com/python-dicts/)
-
 
 ---
 
@@ -115,6 +117,9 @@ Intro to the Internet and web development!
 ---
 
 ## Section 4: Monday, October 8
+![speller](/images/speller.jpg){:class="img-responsive"}
+(from my notes on speller)
+
 Applying a lot of what we've learned to data management!
 * Emily Hong's [slides](https://docs.google.com/presentation/d/12Tb2HC7agaKYZFO0pVlDiIkpFE-d6VFnZrAJOTVcoEc/edit?usp=sharing)
 * Data Structures
@@ -137,6 +142,9 @@ Applying a lot of what we've learned to data management!
 ---
 
 ## Section 3: Monday, October 1
+![recover](/images/recover.jpg){:class="img-responsive"}
+(from my notes on recover)
+
 Applying a lot of what we've learned to file management!
 * [Slides](https://docs.google.com/presentation/d/1Ca1NdbLSlZr5l9woeBxSaCxANLOgewMSq7V52XebVCk/edit?usp=sharing)
 * Another TF's [slides](https://docs.google.com/presentation/d/1IJouel2KDxtdrkW_Q5iQjWL6EdkwXNzOF2_tm0rXV7U/edit#slide=id.p) - Emily Hong
@@ -168,6 +176,9 @@ Applying a lot of what we've learned to file management!
 ---
 
 ## Section 2: Monday, September 24
+![vigenere](/images/vigenere.jpg){:class="img-responsive"}
+(from my notes on vigenere)
+
 Adding more programming building blocks, concepts, and skills!
 * [Slides](https://docs.google.com/presentation/d/1GbsJT52j_9AMKoV9pHn4kXkAB1A_aBLheaAPVGgavuQ/edit?usp=sharing)
 * Another TF's [Slides](https://docs.google.com/presentation/d/1pnrKwaQn7fLF6-LI7DS6M8RGgmbaZpXRJyBhu6GWy80/edit?usp=sharing) - Emily Hong
@@ -202,6 +213,9 @@ Adding more programming building blocks, concepts, and skills!
 ---
 
 ## Section 1: Monday, September 17
+![mario](/images/mario.jpg){:class="img-responsive"}
+(from my notes on mario)
+
 The building blocks of programming!
 * [Slides](https://docs.google.com/presentation/d/1ySMY0u8XyB4ZAUnUw7kGKg6jQsevqW-C_MDhAJEBC9c/edit?usp=sharing)
 * Another TF's [Slides](https://docs.google.com/presentation/d/1q0OrbrRJUJpM6DqBjaNZex_ZMwK6X0uNs3Pc6YCr5nc/edit?usp=sharing) - Emily Hong

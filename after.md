@@ -22,3 +22,6 @@ layout: default
 * From the Handbook
     * about the CS [concentration](https://handbook.fas.harvard.edu/book/computer-science)
     * about the CS [secondary](https://handbook.fas.harvard.edu/secondary-fields/book/computer-science)
+
+![concentrations](/images/concentrations.jpg){:class="img-responsive"}
+(my thoughts about different concentrations from freshman fall)
