@@ -7,7 +7,8 @@ layout: default
 ---
 
 ## General
-* [syllabus](https://cs50.harvard.edu/2018/fall/syllabus/#final-project) on the final project
+* project [specifications](https://docs.cs50.net/2018/fall/project/project.html)!
+* in the [syllabus](https://cs50.harvard.edu/2018/fall/syllabus/#final-project)
 * How does the [Hackathon](https://cs50.harvard.edu/2018/fall/syllabus/#cs50-hackathon) work?
 * What is the [CS50 Fair](https://cs50.harvard.edu/2018/fall/syllabus/#cs50-fair)?
 

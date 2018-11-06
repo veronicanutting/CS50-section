@@ -9,12 +9,14 @@ layout: default
 ## Section 8: Monday, November 5
 Last section :(
 * [Slides](https://docs.google.com/presentation/d/1z2nzCYBw29Dsq7q9quC5HMDI-ognOrLnQ42TahJsujE/edit?usp=sharing)
+* [code](https://drive.google.com/file/d/1YpNuvQC3T4JeqewPC_5sCxhMyGTPlf2p/view?usp=sharing) from section (now with more notes)
 * still relevant: [Flask](https://veronicanutting.github.io/section/section#section-7-monday-october-29),  [Jinja](https://veronicanutting.github.io/section/section#section-7-monday-october-29), and  [Ajax](https://veronicanutting.github.io/section/section#section-7-monday-october-29)
 * Model-View-Controller (MVC)
     * [short](https://www.youtube.com/watch?v=Fr4P6FkZUTE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=38&t=0s)
     * Codecademy on [MVC](https://www.codecademy.com/articles/mvc)
     * MDN on [MVC architecture](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture)
 * SQL
+    * [lecture notes](https://cs50.harvard.edu/2018/fall/weeks/8/notes/#sql)
     * [short](https://www.youtube.com/watch?v=AywtnUjQ6X4&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=46&t=0s)
     * from W3School's [SQL Tutorial](https://www.w3schools.com/sql/):
         * [SELECT](https://www.w3schools.com/sql/sql_select.asp), [UDPATE](https://www.w3schools.com/sql/sql_update.asp), and [INSERT INTO](https://www.w3schools.com/sql/sql_insert.asp) statements

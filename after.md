@@ -7,11 +7,14 @@ layout: default
 ---
 
 ## What do I do now?
-* coming soon! :)
+* consider attending [CS50 Beyond](https://cs50.harvard.edu/beyond/2019/) during this upcoming Wintersession!
+* more coming soon! :)
 
 ---
 
 ## Academic Trajectories
+* What classes can I take after CS50?
+    * consult pages 6 and 7 of the [Unofficial Guide to CS @ Harvard](https://cdn.cs50.net/guide/guide-18.pdf)
 * From [HarvardCS.info](https://harvardcs.info) (a website maintained by the Harvard CS Directors of Undergraduate Studies)
     * [FAQs](https://harvardcs.info/faq/)
     * [advising](https://harvardcs.info/advising/)
