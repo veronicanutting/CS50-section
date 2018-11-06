@@ -56,7 +56,7 @@ Fun with Python and basic web apps!
 ---
 
 ## Section 6: Monday, October 22
-![similarities](/images/similarities.jpg){:class="img-responsive"}
+![similarities](/images/similarities.JPG){:class="img-responsive"}
 (from my notes on similarities)
 
 And now onto Python!
