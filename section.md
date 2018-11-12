@@ -10,6 +10,7 @@ layout: default
 Last section :(
 * [Slides](https://docs.google.com/presentation/d/1z2nzCYBw29Dsq7q9quC5HMDI-ognOrLnQ42TahJsujE/edit?usp=sharing)
 * [code](https://drive.google.com/file/d/1YpNuvQC3T4JeqewPC_5sCxhMyGTPlf2p/view?usp=sharing) from section (now with more notes)
+* another TF's [slides](https://docs.google.com/presentation/d/1H9lxrZn3IoAg__64ertKi9AWr4M_rR-yuL75gZPT6Tk/edit#slide=id.p) - Emily Hong
 * still relevant: [Flask](https://veronicanutting.github.io/section/section#section-7-monday-october-29),  [Jinja](https://veronicanutting.github.io/section/section#section-7-monday-october-29), and  [Ajax](https://veronicanutting.github.io/section/section#section-7-monday-october-29)
 * Model-View-Controller (MVC)
     * [short](https://www.youtube.com/watch?v=Fr4P6FkZUTE&list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW&index=38&t=0s)
