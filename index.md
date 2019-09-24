@@ -10,7 +10,7 @@ Hey there! Welcome to my section website. If you're looking for the CS50 course 
 
 I'm a sophomore studying Computer Science from Argentina and West Virginia. I'm the Head Course Assistant for CS50 this fall (2018).
 
-![My photo](/images/veronica.JPG){:class="img-responsive"}
+![My photo](/images/veronica.JPG){size: 10%}
 
 # Contact Info
 
