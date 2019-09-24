@@ -9,7 +9,7 @@ Hey there! Welcome to my section website. If you're looking for the CS50 course 
 # About Me
 
 I'm a sophomore studying Computer Science from Argentina and West Virginia. 
-![My photo](veronica.jpg)
+![My photo](images/veronica.jpg)
 
 # Contact Info
 
